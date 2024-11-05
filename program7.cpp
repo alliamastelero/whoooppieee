@@ -9,10 +9,10 @@ int main() {
     cin >> distance;
 
     if(distance > 4) 
-        fare = 40.0f + (distance - 4) * 5; 
+        flare = 40.0f + (distance - 4) * 5; 
     else 
-        fare = distance * 10.0f; 
+        flare = distance * 10.0f; 
 
-    cout << "Your total fare is " << fare;
+    cout << "Your total fare is " << flare;
 
 }
