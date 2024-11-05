@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     char letter = 'A'; 
-    int nubmer = 123; 
+    int number = 123; 
     float fare = 8.46f; 
 
     cout << "The value of letter is " << letter << "\n";
